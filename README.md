@@ -33,6 +33,6 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-When I tried to implement 'Slider' for tipping scale, for some reason, I was not able to diplay total using slider. 
+When I tried to implement 'Slider' for tipping scale, for some reason, I was not able to display total using slider. 
 
 
